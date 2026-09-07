@@ -22,7 +22,7 @@ The system was modeled with a full requirement → noun-verb analysis → class 
 
 **Class Diagram**
 
-![Class Diagram]("D:\class_diagram.png")
+![Class Diagram](class_diagram.png)
 
 **Sequence Diagram — "customer books 1 seat and pays by UPI"**
 
