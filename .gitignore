@@ -1,0 +1,10 @@
+# Compiled binaries
+ticketBooking
+ticketBooking.exe
+*.o
+*.out
+
+# OS / editor junk
+.DS_Store
+.vscode/
+*.swp
