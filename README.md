@@ -28,7 +28,7 @@ The system was modeled with a full requirement → noun-verb analysis → class 
 
 ![Sequence Diagram](sequence_diagram.png)
 
-Full write-up (functional/non-functional requirements, noun-verb table, relationship justifications with the "lifetime test", and SOLID mapping) is in [`Assignment1_Analysis.md`](./Assignment1_Analysis.md).
+Full write-up (functional/non-functional requirements, noun-verb table, relationship justifications with the "lifetime test", and SOLID mapping) is in [`Assignment1_Analysis.md`](./Assignment1_TCS504 (1).pdf).
 
 ## 🏗️ Architecture
 
